@@ -22,11 +22,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Book Store <a name="about-project">
+# 📖 To-do-list App <a name="about-project">
 
-Hi there! Welcome to my To-do Web App</a>
+Hi there! Welcome to my To-do-list Web App</a>
 
-Stay organized and increase productivity with our intuitive to-do web app. Add, edit, and delete tasks with clear all functionality from any device.
+Stay organized and increase productivity with our intuitive to-do-list web app. Add, edit, and delete tasks with clear all functionality from any device.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,10 +41,10 @@ Stay organized and increase productivity with our intuitive to-do web app. Add, 
 
 ### Key Features <a name="key-features"></a>
 
-- **[Layout]**
-- **[List books]**
-- **[Show current progress]**
-- **[Navigation]**
+- [x] **[Add tasks]**
+- [x] **[List task]**
+- [x] **[Edit task name]**
+- [x] **[delete task]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +63,7 @@ In order to run this project you need to install Node.js, Web browser, and code 
 Clone this repository to your desired folder:
 
 ```snippet
-  git clone https://github.com/UbdaNam/bookstore.git
+  git clone https://github.com/UbdaNam/react-todo-app.git
 ```
 
 ### Install
@@ -96,8 +96,8 @@ In the project directory, you can run:
 
 ## Future Features <a name="future-features"></a>
 
-- [ ] **[Add page styles]**
-- [ ] **[Add category page content]**
+- [ ] **[Add navigation]**
+- [ ] **[Add reminder]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +107,7 @@ In the project directory, you can run:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/UbdaNam/bookstore/issues).
+Feel free to check the [issues page](https://github.com/UbdaNam/react-todo-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
